@@ -1,0 +1,9 @@
+## Title: UnaRaidInfo
+## Version: 1.0
+## Author: Riott
+## Interface: 80205
+
+embeds.xml
+
+UnaRaids.lua
+UnaRaidInfo.lua
