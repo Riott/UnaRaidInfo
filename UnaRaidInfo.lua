@@ -2,8 +2,6 @@ UnaRaidInfo = LibStub("AceAddon-3.0"):NewAddon("UnaRaidInfo", "AceConsole-3.0", 
 
 
 function UnaRaidInfo:OnInitialize()
-		self:Print("UnaRaidInfo Loaded: use /una to show upcoming raid info")
-		
 		local _, raid = next(una_raids)
 		UnaRaidInfo:RegisterChatCommand("una", "UnaInfoHandler")
 		UnaUIConfig = CreateFrame("Frame", "UnaRaidInfo", UIParent, "BasicFrameTemplateWithInset");
@@ -67,7 +65,7 @@ function UnaRaidInfo:OnEnable()
 		-- Called when the addon is enabled
 
 		-- Print a message to the chat frame
-		self:Print("OnEnable Event Fired: Hello, again ;)")
+		self:Print("UnaRaidInfo Loaded: use /una to show upcoming raid info")
 end
 
 function UnaRaidInfo:OnDisable()
