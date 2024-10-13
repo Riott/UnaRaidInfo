@@ -10,9 +10,9 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-  env:
-    WAGO_API_TOKEN: ${{ secrets.WAGO_API_TOKEN }}
-    CF_API_KEY: ${{ secrets.CF_API_KEY }}
+env:
+  WAGO_API_TOKEN: ${{ secrets.WAGO_API_TOKEN }}
+  CF_API_KEY: ${{ secrets.CF_API_KEY }}
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
