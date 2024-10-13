@@ -1,7 +1,6 @@
 package-as: UnaRaidInfo
 
 ignore:
-    - UnaRaidInfo.wowproj
-
-# The PackageMeta file is a YAML file that goes in the root of your repository project folder.
+  - UnaRaidInfo.wowproj
+# The PackageMeta file s a YAML file that goes in the root of your repository project folder.
 # See: https://support.curseforge.com/en/support/search?term=pkgmeta
