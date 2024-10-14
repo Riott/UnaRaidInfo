@@ -30,5 +30,3 @@ jobs:
         uses: BigWigsMods/packager@master
         with:
           args: "--file_type=stable"
-          project-name: "UnaRaidInfo"
-          project-version: "1.0.0"
