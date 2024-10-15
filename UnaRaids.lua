@@ -1,6 +1,6 @@
 una_raids = {
     ["1838537"] = {["date"] = "2024-10-16", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "1838537.png", ["bosses"] = {
-["Ulgrax"] = {["roster"] = {["tanks"] = {["Fatbobo"] = { ["class"] = "Death Knight", ["realm"] = "Ravencrest", ["role"] = "Tank" },
+["Ulgrax"] = {["roster"] = ,["roster"] = {["tanks"] = {["Fatbobo"] = { ["class"] = "Death Knight", ["realm"] = "Ravencrest", ["role"] = "Tank" },
 ["Awfyndk"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Tank" }}, ["healers"] = {["Meymonnaise"] = { ["class"] = "Priest", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Eggsnbeacon"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Emer"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Heal" },
@@ -20,7 +20,7 @@ una_raids = {
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Linadr"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 } } },
-["The Bloodbound Horror"] = {["roster"] = {["tanks"] = {["Fatbobo"] = { ["class"] = "Death Knight", ["realm"] = "Ravencrest", ["role"] = "Tank" },
+["The Bloodbound Horror"] = {["roster"] = ,["roster"] = {["tanks"] = {["Fatbobo"] = { ["class"] = "Death Knight", ["realm"] = "Ravencrest", ["role"] = "Tank" },
 ["Awfyndk"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Tank" }}, ["healers"] = {["Meymonnaise"] = { ["class"] = "Priest", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Eggsnbeacon"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Emer"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Heal" },
@@ -40,7 +40,7 @@ una_raids = {
 ["Tomcc"] = { ["class"] = "Mage", ["realm"] = "Tarren Mill", ["role"] = "Ranged" },
 ["Linadr"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 } } },
-["Sikran"] = {["roster"] = {["tanks"] = {["Awfynwar"] = { ["class"] = "Warrior", ["realm"] = "Magtheridon", ["role"] = "Tank" },
+["Sikran"] = {["roster"] = ,["roster"] = {["tanks"] = {["Awfynwar"] = { ["class"] = "Warrior", ["realm"] = "Magtheridon", ["role"] = "Tank" },
 ["Bonkko"] = { ["class"] = "Druid", ["realm"] = "Ravencrest", ["role"] = "Tank" },
 }, ["healers"] = {["Meymonnaise"] = { ["class"] = "Priest", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Eggsnbeacon"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Heal" },
@@ -60,7 +60,7 @@ una_raids = {
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Tomcc"] = { ["class"] = "Mage", ["realm"] = "Tarren Mill", ["role"] = "Ranged" },
 ["Linadr"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Ranged" }} } },
-["Rasha'nan"] = {["roster"] = {["tanks"] = {["Awfynwar"] = { ["class"] = "Warrior", ["realm"] = "Magtheridon", ["role"] = "Tank" },
+["Rasha'nan"] = {["roster"] = ,["roster"] = {["tanks"] = {["Awfynwar"] = { ["class"] = "Warrior", ["realm"] = "Magtheridon", ["role"] = "Tank" },
 ["Bonkko"] = { ["class"] = "Druid", ["realm"] = "Ravencrest", ["role"] = "Tank" },
 }, ["healers"] = {["Meymonnaise"] = { ["class"] = "Priest", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Eggsnbeacon"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Heal" },
@@ -80,7 +80,7 @@ una_raids = {
 ["Leviday"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Linadr"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Ranged" }} } },
-["Broodtwister Ovi'nax"] = {["roster"] = {["tanks"] = {["Fatbobo"] = { ["class"] = "Death Knight", ["realm"] = "Ravencrest", ["role"] = "Tank" },
+["Broodtwister Ovi'nax"] = {["roster"] = ,["roster"] = {["tanks"] = {["Fatbobo"] = { ["class"] = "Death Knight", ["realm"] = "Ravencrest", ["role"] = "Tank" },
 ["Awfyndk"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Tank" }}, ["healers"] = {["Meymonnaise"] = { ["class"] = "Priest", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Emer"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Dragön"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Heal" },
@@ -100,7 +100,7 @@ una_raids = {
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Linadr"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 } } },
-["Nexus-Princess Ky'veza"] = {["roster"] = {["tanks"] = {["Awfynwar"] = { ["class"] = "Warrior", ["realm"] = "Magtheridon", ["role"] = "Tank" },
+["Nexus-Princess Ky'veza"] = {["roster"] = ,["roster"] = {["tanks"] = {["Awfynwar"] = { ["class"] = "Warrior", ["realm"] = "Magtheridon", ["role"] = "Tank" },
 ["Bonkko"] = { ["class"] = "Druid", ["realm"] = "Ravencrest", ["role"] = "Tank" },
 }, ["healers"] = {["Meymonnaise"] = { ["class"] = "Priest", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Eggsnbeacon"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Heal" },
@@ -120,7 +120,7 @@ una_raids = {
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Tomcc"] = { ["class"] = "Mage", ["realm"] = "Tarren Mill", ["role"] = "Ranged" },
 ["Linadr"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Ranged" }} } },
-["The Silken Court"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["Queen Ansurek"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } }}}
+["The Silken Court"] = {["roster"] = ,["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
+["Queen Ansurek"] = {["roster"] = ,["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } }}}
 
 }
