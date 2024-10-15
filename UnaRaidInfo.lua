@@ -83,7 +83,7 @@ function UnaRaidInfo:OnInitialize()
 
 
 
-	-- -- Create and set the texture
+	-- -- Create and set the texture test
 	-- UnaUIConfig.InsetBg = UnaUIConfig.InsetBgFrame:CreateTexture(nil, "BACKGROUND")
 	-- UnaUIConfig.InsetBg:SetTexture(format("Interface\\Addons\\UnaRaidInfo\\%s", raid["picture"]))
 	-- UnaUIConfig.InsetBg:SetAllPoints(UnaUIConfig.InsetBgFrame)
