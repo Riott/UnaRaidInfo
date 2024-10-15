@@ -25,11 +25,8 @@ function UnaRaidInfo:OnInitialize()
 		"UIPanelScrollFrameTemplate")
 	UnaUIConfig.RosterScrollFrame:SetPoint("TOPLEFT", 10, -20)
 	UnaUIConfig.RosterScrollFrame:SetSize(500, 500)
+	UnaUIConfig.RosterScrollFrame:Hide();
 
-	-- Create the child frame to hold the roster items
-	UnaUIConfig.RosterContentFrame = CreateFrame("Frame", nil, UnaUIConfig.RosterScrollFrame)
-	UnaUIConfig.RosterContentFrame:SetSize(500, 500) -- Adjust size as needed
-	UnaUIConfig.RosterScrollFrame:SetScrollChild(UnaUIConfig.RosterContentFrame)
 
 	rosterFrames = {}
 	for bossName, bossTable in pairs(una_raids[raidId]["bosses"]) do
@@ -71,8 +68,10 @@ function UnaRaidInfo:OnInitialize()
 				for _, frame in pairs(rosterFrames) do
 					frame:Hide()
 				end
+				UnaUIConfig.RosterScrollFrame:Hide();
 				local rosterFrame = rosterFrames[bossName]
 				UnaUIConfig.RosterScrollFrame:SetScrollChild(rosterFrame)
+				UnaUIConfig.RosterScrollFrame:Show();
 				rosterFrame:Show()
 			end)
 		end
