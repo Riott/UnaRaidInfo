@@ -1,7 +1,7 @@
 ## Title: UnaRaidInfo
 ## Version: @project-version@
 ## Author: Riott
-## Interface: 110002
+## Interface: 110005
 ## X-Wago-ID: nGvp1j6x
 ## X-Curse-Project-ID: 1120704
 
