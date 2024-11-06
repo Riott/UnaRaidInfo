@@ -34,6 +34,47 @@ function UnaRaidInfo:OnInitialize()
 		bossRosterFrame:Hide()
 		bossRosterFrame:SetSize(530, 500)
 
+		local raidRosterEvent = CreateFrame("Frame", nil, bossRosterFrame)
+		raidRosterEvent:RegisterEvent("GROUP_ROSTER_UPDATE")
+		-- Event handler function
+		raidRosterEvent:SetScript("OnEvent", function(self, event)
+			C_PartyInfo.ConvertToRaid()
+		end)
+
+		local inviteButton = CreateFrame("Button", nil, bossRosterFrame, "UIPanelButtonTemplate")
+		inviteButton:SetPoint("TOPRIGHT", -100, 0)
+		inviteButton:SetSize(150, 30)
+		inviteButton:SetText("Invite All")
+		inviteButton:SetScript("OnClick", function()
+			C_PartyInfo.ConvertToRaid()
+			for _, players in pairs(bossTable["roster"]) do
+				for playerName, playerTable in pairs(players) do
+					C_PartyInfo.InviteUnit(format("%s-%s", playerName, playerTable["realm"]))
+				end
+			end
+		end)
+		inviteButton:RegisterEvent("GROUP_ROSTER_UPDATE")
+
+		local kickButton = CreateFrame("Button", nil, bossRosterFrame, "UIPanelButtonTemplate")
+		kickButton:SetPoint("TOPRIGHT", -100, -50)
+		kickButton:SetSize(150, 30)
+		kickButton:SetText("Kick Non Rostered")
+		kickButton:SetScript("OnClick", function()
+			for i = 1, GetNumGroupMembers() do
+				-- Get raid member info
+				local name, rank, subgroup, level, class, fileName, zone, online, isDead, role, isML = GetRaidRosterInfo(
+					i)
+				local nameNoRealm, realm = strsplit("-", name)
+				if not bossTable["roster"]["tanks"][nameNoRealm]
+					and not bossTable["roster"]["melee"][nameNoRealm]
+					and not bossTable["roster"]["healers"][nameNoRealm]
+					and not bossTable["roster"]["ranged"][nameNoRealm] then
+					--print("thinking about removing", name, " ", nameNoRealm)
+					UninviteUnit(name)
+				end
+			end
+		end)
+
 		local roleCount = 1
 		local playerCount = 1
 		for role, players in pairs(bossTable["roster"]) do
