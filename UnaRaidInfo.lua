@@ -34,13 +34,6 @@ function UnaRaidInfo:OnInitialize()
 		bossRosterFrame:Hide()
 		bossRosterFrame:SetSize(530, 500)
 
-		local raidRosterEvent = CreateFrame("Frame", nil, bossRosterFrame)
-		raidRosterEvent:RegisterEvent("GROUP_ROSTER_UPDATE")
-		-- Event handler function
-		raidRosterEvent:SetScript("OnEvent", function(self, event)
-			C_PartyInfo.ConvertToRaid()
-		end)
-
 		local inviteButton = CreateFrame("Button", nil, bossRosterFrame, "UIPanelButtonTemplate")
 		inviteButton:SetPoint("TOPRIGHT", -100, 0)
 		inviteButton:SetSize(150, 30)
