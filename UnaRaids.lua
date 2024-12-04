@@ -1,5 +1,5 @@
 una_raids = {
-    ["1903256"] = {["date"] = "2024-12-02", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "1903256.png", ["bosses"] = {
+    ["1890509"] = {["date"] = "2024-12-04", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "1890509.png", ["bosses"] = {
 ["Ulgrax"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["The Bloodbound Horror"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Sikran"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
@@ -27,15 +27,5 @@ una_raids = {
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Linadr"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 } } }}}
-, 
-["1890509"] = {["date"] = "2024-12-04", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "1890509.png", ["bosses"] = {
-["Ulgrax"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["The Bloodbound Horror"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["Sikran"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["Rasha'nan"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["Broodtwister Ovi'nax"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["Nexus-Princess Ky'veza"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["The Silken Court"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["Queen Ansurek"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } }}}
 
 }
