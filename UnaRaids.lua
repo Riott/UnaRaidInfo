@@ -1,5 +1,5 @@
 una_raids = {
-    ["1908929"] = {["date"] = "2024-12-09", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "1908929.png", ["bosses"] = {
+    ["1915166"] = {["date"] = "2024-12-11", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "1915166.png", ["bosses"] = {
 ["Ulgrax"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["The Bloodbound Horror"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Sikran"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
@@ -22,9 +22,9 @@ una_raids = {
 ["Rhiané"] = { ["class"] = "Warrior", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Maxïm"] = { ["class"] = "Demon Hunter", ["realm"] = "Magtheridon", ["role"] = "Melee" }}, ["ranged"] = {["Cabnh"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Lockedupnyly"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Leviday"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Tomcc"] = { ["class"] = "Mage", ["realm"] = "Tarren Mill", ["role"] = "Ranged" },
 ["Linadr"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 } } }}}
 
