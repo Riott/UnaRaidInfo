@@ -1,5 +1,5 @@
 una_raids = {
-    ["1915166"] = {["date"] = "2024-12-11", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "1915166.png", ["bosses"] = {
+    ["1917343"] = {["date"] = "2024-12-16", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "1917343.png", ["bosses"] = {
 ["Ulgrax"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["The Bloodbound Horror"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Sikran"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
