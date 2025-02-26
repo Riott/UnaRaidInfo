@@ -1,12 +1,12 @@
 una_raids = {
-    ["1995724"] = {["date"] = "2025-02-26", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "1995724.png", ["bosses"] = {
-["Ulgrax"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["The Bloodbound Horror"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["Sikran"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["Rasha'nan"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["Broodtwister Ovi'nax"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["Nexus-Princess Ky'veza"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["The Silken Court"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["Queen Ansurek"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } }}}
+    ["1995727"] = {["date"] = "2025-03-05", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "1995727.png", ["bosses"] = {
+["Vexie and the Geargrinders"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
+["Cauldron of Carnage"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
+["Rik Reverb"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
+["Stix Bunkjunker"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
+["Sprocketmonger Lockenstock"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
+["The One-Armed Bandit"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
+["Mug'Zee, Heads of Security"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
+["Chrome King Gallywix"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } }}}
 
 }
