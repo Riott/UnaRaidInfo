@@ -19,7 +19,6 @@ una_raids = {
 ["Rougelet"] = { ["class"] = "Rogue", ["realm"] = "Ravencrest", ["role"] = "Melee" },
 ["Cokezerø"] = { ["class"] = "Shaman", ["realm"] = "Silvermoon", ["role"] = "Melee" }}, ["ranged"] = {["Lockedupnyly"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Linadr"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Whatbuff"] = { ["class"] = "Evoker", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
 ["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Brawlar"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
