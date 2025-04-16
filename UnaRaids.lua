@@ -1,11 +1,11 @@
 una_raids = {
     ["2094642"] = {["date"] = "2025-04-16", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2094642.png", ["bosses"] = {
-["Vexie and the Geargrinders"] = {["roster"] = {["tanks"] = {["Drimbrezdk"] = { ["class"] = "Death Knight", ["realm"] = "Kazzak", ["role"] = "Tank" },
-["Bonkkoh"] = { ["class"] = "Demon Hunter", ["realm"] = "Ravencrest", ["role"] = "Tank" }}, ["healers"] = {["Meymonnaise"] = { ["class"] = "Priest", ["realm"] = "Magtheridon", ["role"] = "Heal" },
+["Vexie and the Geargrinders"] = {["roster"] = {["tanks"] = {["Bonkkoh"] = { ["class"] = "Demon Hunter", ["realm"] = "Ravencrest", ["role"] = "Tank" }}, ["healers"] = {["Meymonnaise"] = { ["class"] = "Priest", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Eggsnbeacon"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Emer"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Ninjamonkey"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Heal" },
-}, ["melee"] = {["Minizeal"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Melee" },
+}, ["melee"] = {["Pettson"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Melee" },
+["Minizeal"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Ashie"] = { ["class"] = "Rogue", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Lyrá"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Swøøly"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Melee" },
