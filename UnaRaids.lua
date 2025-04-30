@@ -1,5 +1,5 @@
 una_raids = {
-    ["2113997"] = {["date"] = "2025-04-30", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2113997.png", ["bosses"] = {
+    ["2117506"] = {["date"] = "2025-05-05", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2117506.png", ["bosses"] = {
 ["Vexie and the Geargrinders"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Cauldron of Carnage"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Rik Reverb"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
@@ -12,8 +12,28 @@ una_raids = {
 ["Ninjamonkey"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 }, ["melee"] = {["Cubalibre"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Pettson"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Melee" },
+["Minizeal"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Ashie"] = { ["class"] = "Rogue", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Sek"] = { ["class"] = "Warrior", ["realm"] = "Magtheridon", ["role"] = "Melee" },
+["Swøøly"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Melee" },
+["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
+["Rougelet"] = { ["class"] = "Rogue", ["realm"] = "Ravencrest", ["role"] = "Melee" },
+}, ["ranged"] = {["Cabnh"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Lockedupnyly"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Whatbuff"] = { ["class"] = "Evoker", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
+["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Brawlar"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+} } },
+["Mug'Zee, Heads of Security"] = {["roster"] = {["tanks"] = {["Bonkkoh"] = { ["class"] = "Demon Hunter", ["realm"] = "Ravencrest", ["role"] = "Tank" },
+["Drimbrezw"] = { ["class"] = "Warrior", ["realm"] = "Kazzak", ["role"] = "Tank" }}, ["healers"] = {["Meymonnaise"] = { ["class"] = "Priest", ["realm"] = "Magtheridon", ["role"] = "Heal" },
+["Eggsnbeacon"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Heal" },
+["Emer"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Heal" },
+["Ninjamonkey"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Heal" },
+}, ["melee"] = {["Cubalibre"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Melee" },
+["Pettson"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Melee" },
+["Minizeal"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Melee" },
+["Ashie"] = { ["class"] = "Rogue", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Swøøly"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
 ["Rougelet"] = { ["class"] = "Rogue", ["realm"] = "Ravencrest", ["role"] = "Melee" },
@@ -25,7 +45,6 @@ una_raids = {
 ["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Brawlar"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 } } },
-["Mug'Zee, Heads of Security"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Chrome King Gallywix"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } }}}
 
 }
