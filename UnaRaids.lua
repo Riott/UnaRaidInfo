@@ -1,5 +1,5 @@
 una_raids = {
-    ["2117507"] = {["date"] = "2025-05-20", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2117507.png", ["bosses"] = {
+    ["2117508"] = {["date"] = "2025-05-26", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2117508.png", ["bosses"] = {
 ["Vexie and the Geargrinders"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Cauldron of Carnage"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Rik Reverb"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
@@ -20,6 +20,7 @@ una_raids = {
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
 ["Rougelet"] = { ["class"] = "Rogue", ["realm"] = "Ravencrest", ["role"] = "Melee" },
 }, ["ranged"] = {["Cabnh"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Lockedupnyly"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Linadr"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Whatbuff"] = { ["class"] = "Evoker", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
