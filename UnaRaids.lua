@@ -19,13 +19,14 @@ una_raids = {
 ["Swøøly"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
 ["Rougelet"] = { ["class"] = "Rogue", ["realm"] = "Ravencrest", ["role"] = "Melee" },
-}, ["ranged"] = {["Cabnh"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Rehtorì"] = { ["class"] = "Demon Hunter", ["realm"] = "Ravencrest", ["role"] = "Melee" }}, ["ranged"] = {["Cabnh"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Lockedupnyly"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Linadr"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Brawlar"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Garnetxx"] = { ["class"] = "Priest", ["realm"] = "Blade's Edge", ["role"] = "Ranged" }} } },
+["Garnetxx"] = { ["class"] = "Priest", ["realm"] = "Blade's Edge", ["role"] = "Ranged" },
+} } },
 ["Chrome King Gallywix"] = {["roster"] = {["tanks"] = {["Cubalibre"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Tank" },
 ["Fatbobo"] = { ["class"] = "Death Knight", ["realm"] = "Ravencrest", ["role"] = "Tank" },
 }, ["healers"] = {["Meymonnaise"] = { ["class"] = "Priest", ["realm"] = "Magtheridon", ["role"] = "Heal" },
@@ -39,12 +40,13 @@ una_raids = {
 ["Swøøly"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
 ["Rougelet"] = { ["class"] = "Rogue", ["realm"] = "Ravencrest", ["role"] = "Melee" },
-}, ["ranged"] = {["Cabnh"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Rehtorì"] = { ["class"] = "Demon Hunter", ["realm"] = "Ravencrest", ["role"] = "Melee" }}, ["ranged"] = {["Cabnh"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Lockedupnyly"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Linadr"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Brawlar"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Garnetxx"] = { ["class"] = "Priest", ["realm"] = "Blade's Edge", ["role"] = "Ranged" }} } }}}
+["Garnetxx"] = { ["class"] = "Priest", ["realm"] = "Blade's Edge", ["role"] = "Ranged" },
+} } }}}
 
 }
