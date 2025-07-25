@@ -18,7 +18,6 @@ una_raids = {
 ["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Milfhaus"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
 ["Nicktotems"] = { ["class"] = "Shaman", ["realm"] = "Ragnaros", ["role"] = "Ranged" },
 ["Leviday"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" }} } },
 ["Cauldron of Carnage"] = {["roster"] = {["tanks"] = {["Cubalibre"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Tank" },
@@ -58,7 +57,6 @@ una_raids = {
 ["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Milfhaus"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
 ["Nicktotems"] = { ["class"] = "Shaman", ["realm"] = "Ragnaros", ["role"] = "Ranged" },
 ["Leviday"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" }} } },
 ["Stix Bunkjunker"] = {["roster"] = {["tanks"] = {["Cubalibre"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Tank" },
@@ -96,7 +94,6 @@ una_raids = {
 ["Milfhaus"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Garnetxx"] = { ["class"] = "Priest", ["realm"] = "Blade's Edge", ["role"] = "Ranged" },
 ["Nèllý"] = { ["class"] = "Hunter", ["realm"] = "Twisting Nether", ["role"] = "Ranged" },
-["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
 ["Nicktotems"] = { ["class"] = "Shaman", ["realm"] = "Ragnaros", ["role"] = "Ranged" },
 ["Leviday"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" }} } },
 ["The One-Armed Bandit"] = {["roster"] = {["tanks"] = {["Cubalibre"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Tank" },
@@ -116,7 +113,6 @@ una_raids = {
 ["Garnetxx"] = { ["class"] = "Priest", ["realm"] = "Blade's Edge", ["role"] = "Ranged" },
 ["Nèllý"] = { ["class"] = "Hunter", ["realm"] = "Twisting Nether", ["role"] = "Ranged" },
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
 ["Leviday"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" }} } },
 ["Mug'Zee, Heads of Security"] = {["roster"] = {["tanks"] = {["Cubalibre"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Tank" },
 ["Prottobonkko"] = { ["class"] = "Paladin", ["realm"] = "Ravencrest", ["role"] = "Tank" },
@@ -134,7 +130,6 @@ una_raids = {
 ["Garnetxx"] = { ["class"] = "Priest", ["realm"] = "Blade's Edge", ["role"] = "Ranged" },
 ["Nèllý"] = { ["class"] = "Hunter", ["realm"] = "Twisting Nether", ["role"] = "Ranged" },
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
 ["Nicktotems"] = { ["class"] = "Shaman", ["realm"] = "Ragnaros", ["role"] = "Ranged" },
 ["Leviday"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" }} } },
 ["Chrome King Gallywix"] = {["roster"] = {["tanks"] = {["Cubalibre"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Tank" },
@@ -154,7 +149,6 @@ una_raids = {
 ["Garnetxx"] = { ["class"] = "Priest", ["realm"] = "Blade's Edge", ["role"] = "Ranged" },
 ["Nèllý"] = { ["class"] = "Hunter", ["realm"] = "Twisting Nether", ["role"] = "Ranged" },
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
 ["Leviday"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" }} } }}}
 
 }
