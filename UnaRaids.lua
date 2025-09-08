@@ -34,7 +34,6 @@ una_raids = {
 ["Sek"] = { ["class"] = "Warrior", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Lyrá"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Rehtorì"] = { ["class"] = "Demon Hunter", ["realm"] = "Ravencrest", ["role"] = "Melee" },
-["Pettsön"] = { ["class"] = "Druid", ["realm"] = "Twisting Nether", ["role"] = "Melee" },
 }, ["ranged"] = {["Swøøly"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Linadr"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
