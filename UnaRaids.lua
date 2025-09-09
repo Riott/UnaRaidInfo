@@ -130,7 +130,6 @@ una_raids = {
 ["Lyrá"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
 ["Rehtorì"] = { ["class"] = "Demon Hunter", ["realm"] = "Ravencrest", ["role"] = "Melee" },
-["Pettsön"] = { ["class"] = "Druid", ["realm"] = "Twisting Nether", ["role"] = "Melee" },
 }, ["ranged"] = {["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Swøøly"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
