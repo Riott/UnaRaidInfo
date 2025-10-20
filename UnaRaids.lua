@@ -1,5 +1,5 @@
 una_raids = {
-    ["2348779"] = {["date"] = "2025-10-14", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2348779.png", ["bosses"] = {
+    ["2363769"] = {["date"] = "2025-10-22", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2363769.png", ["bosses"] = {
 ["Plexus Sentinel"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Soulbinder Naazindhri"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Loom'ithar"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
@@ -7,8 +7,8 @@ una_raids = {
 ["The Soul Hunters"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Fractillus"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Nexus-King Salhadaar"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["Dimensius, the All-Devouring"] = {["roster"] = {["tanks"] = {["Fatbobo"] = { ["class"] = "Death Knight", ["realm"] = "Ravencrest", ["role"] = "Tank" },
-["Gerbsmk"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Tank" },
+["Dimensius, the All-Devouring"] = {["roster"] = {["tanks"] = {["Cubalibre"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Tank" },
+["Fatbobo"] = { ["class"] = "Death Knight", ["realm"] = "Ravencrest", ["role"] = "Tank" },
 }, ["healers"] = {["Meymonnaise"] = { ["class"] = "Priest", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Eggsnbeacon"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Emer"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Heal" },
@@ -16,10 +16,10 @@ una_raids = {
 }, ["melee"] = {["Minizeal"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Ashie"] = { ["class"] = "Rogue", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Sek"] = { ["class"] = "Warrior", ["realm"] = "Magtheridon", ["role"] = "Melee" },
-["Lyrá"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
 ["Rehtorì"] = { ["class"] = "Demon Hunter", ["realm"] = "Ravencrest", ["role"] = "Melee" },
-}, ["ranged"] = {["Swøøly"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+}, ["ranged"] = {["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Swøøly"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Linadr"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Garnetxx"] = { ["class"] = "Priest", ["realm"] = "Blade's Edge", ["role"] = "Ranged" },
