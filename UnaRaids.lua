@@ -14,7 +14,6 @@ una_raids = {
 ["Emer"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Rossy"] = { ["class"] = "Evoker", ["realm"] = "Ravencrest", ["role"] = "Heal" },
 }, ["melee"] = {["Minizeal"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Melee" },
-["Ashie"] = { ["class"] = "Rogue", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Sek"] = { ["class"] = "Warrior", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Lyrá"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
