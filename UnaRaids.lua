@@ -1,5 +1,5 @@
 una_raids = {
-    ["2382017"] = {["date"] = "2025-11-05", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2382017.png", ["bosses"] = {
+    ["2385522"] = {["date"] = "2025-11-10", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2385522.png", ["bosses"] = {
 ["Plexus Sentinel"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Soulbinder Naazindhri"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Loom'ithar"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
