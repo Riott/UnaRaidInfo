@@ -1,5 +1,5 @@
 una_raids = {
-    ["2394001"] = {["date"] = "2025-11-19", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2394001.png", ["bosses"] = {
+    ["2402448"] = {["date"] = "2025-11-24", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2402448.png", ["bosses"] = {
 ["Plexus Sentinel"] = {["roster"] = {["tanks"] = {["Cubalibre"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Tank" },
 ["Fatbobo"] = { ["class"] = "Death Knight", ["realm"] = "Ravencrest", ["role"] = "Tank" },
 }, ["healers"] = {["Meymonnaise"] = { ["class"] = "Priest", ["realm"] = "Magtheridon", ["role"] = "Heal" },
