@@ -22,8 +22,8 @@ una_raids = {
 ["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Garnetxx"] = { ["class"] = "Priest", ["realm"] = "Blade's Edge", ["role"] = "Ranged" },
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
 ["Nellylock"] = { ["class"] = "Warlock", ["realm"] = "Twisting Nether", ["role"] = "Ranged" },
-["Cabnh"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Streetspyro"] = { ["class"] = "Evoker", ["realm"] = "Ravencrest", ["role"] = "Ranged" },
 } } },
 ["Dimensius, the All-Devouring"] = {["roster"] = {["tanks"] = {["Mess"] = { ["class"] = "Warrior", ["realm"] = "Al'Akir", ["role"] = "Tank" },
@@ -34,6 +34,7 @@ una_raids = {
 ["Rossy"] = { ["class"] = "Evoker", ["realm"] = "Ravencrest", ["role"] = "Heal" },
 }, ["melee"] = {["Ashie"] = { ["class"] = "Rogue", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Sek"] = { ["class"] = "Warrior", ["realm"] = "Magtheridon", ["role"] = "Melee" },
+["Lyrá"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
 ["Pettsön"] = { ["class"] = "Druid", ["realm"] = "Twisting Nether", ["role"] = "Melee" },
 ["Smashdaddy"] = { ["class"] = "Demon Hunter", ["realm"] = "Tarren Mill", ["role"] = "Melee" },
@@ -44,7 +45,6 @@ una_raids = {
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
 ["Nellylock"] = { ["class"] = "Warlock", ["realm"] = "Twisting Nether", ["role"] = "Ranged" },
-["Cabnh"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 } } }}}
 
 }
