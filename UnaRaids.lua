@@ -34,7 +34,6 @@ una_raids = {
 ["Rossy"] = { ["class"] = "Evoker", ["realm"] = "Ravencrest", ["role"] = "Heal" },
 }, ["melee"] = {["Ashie"] = { ["class"] = "Rogue", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Sek"] = { ["class"] = "Warrior", ["realm"] = "Magtheridon", ["role"] = "Melee" },
-["Lyrá"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
 ["Pettsön"] = { ["class"] = "Druid", ["realm"] = "Twisting Nether", ["role"] = "Melee" },
 ["Smashdaddy"] = { ["class"] = "Demon Hunter", ["realm"] = "Tarren Mill", ["role"] = "Melee" },
@@ -44,6 +43,7 @@ una_raids = {
 ["Garnetxx"] = { ["class"] = "Priest", ["realm"] = "Blade's Edge", ["role"] = "Ranged" },
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
+["Leviday"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Nellylock"] = { ["class"] = "Warlock", ["realm"] = "Twisting Nether", ["role"] = "Ranged" },
 } } }}}
 
