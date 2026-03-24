@@ -1,5 +1,5 @@
 una_raids = {
-    ["2490767"] = {["date"] = "2026-03-24", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2490767.png", ["bosses"] = {
+    ["2490768"] = {["date"] = "2026-03-25", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2490768.png", ["bosses"] = {
 ["Imperator Averzian"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Vorasius"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Fallen-King Salhadaar"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
