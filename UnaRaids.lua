@@ -1,5 +1,5 @@
 una_raids = {
-    ["2619210"] = {["date"] = "2026-04-27", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2619210.png", ["bosses"] = {
+    ["2626300"] = {["date"] = "2026-04-29", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2626300.png", ["bosses"] = {
 ["Imperator Averzian"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Vorasius"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Fallen-King Salhadaar"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
@@ -13,10 +13,10 @@ una_raids = {
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
 ["Muushie"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 }, ["ranged"] = {["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Garnetxx"] = { ["class"] = "Priest", ["realm"] = "Blade's Edge", ["role"] = "Ranged" },
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
 ["Leviday"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Cabnh"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Streetspyro"] = { ["class"] = "Evoker", ["realm"] = "Ravencrest", ["role"] = "Ranged" },
 ["Holynelly"] = { ["class"] = "Priest", ["realm"] = "Twisting Nether", ["role"] = "Ranged" },
 ["Maxïm"] = { ["class"] = "Demon Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
@@ -38,11 +38,11 @@ una_raids = {
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
 ["Leviday"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Cabnh"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Streetspyro"] = { ["class"] = "Evoker", ["realm"] = "Ravencrest", ["role"] = "Ranged" },
 ["Maxïm"] = { ["class"] = "Demon Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Veryberryy"] = { ["class"] = "Druid", ["realm"] = "Ravencrest", ["role"] = "Ranged" },
 ["Swoorlock"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Mitchdh"] = { ["class"] = "Demon Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 } } },
 ["Chimaerus"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Belo'ren, Child of Al'ar"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
