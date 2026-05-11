@@ -1,5 +1,5 @@
 una_raids = {
-    ["2643383"] = {["date"] = "2026-05-11", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2643383.png", ["bosses"] = {
+    ["2649269"] = {["date"] = "2026-05-13", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2649269.png", ["bosses"] = {
 ["Imperator Averzian"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Vorasius"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Fallen-King Salhadaar"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
@@ -7,8 +7,7 @@ una_raids = {
 ["Lightblinded Vanguard"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Crown of the Cosmos"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Chimaerus"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
-["Belo'ren, Child of Al'ar"] = {["roster"] = {["tanks"] = {["Cubalibre"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Tank" },
-["Jawst"] = { ["class"] = "Death Knight", ["realm"] = "Al'Akir", ["role"] = "Tank" },
+["Belo'ren, Child of Al'ar"] = {["roster"] = {["tanks"] = {["Jawst"] = { ["class"] = "Death Knight", ["realm"] = "Al'Akir", ["role"] = "Tank" },
 }, ["healers"] = {["Emer"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Rossy"] = { ["class"] = "Evoker", ["realm"] = "Ravencrest", ["role"] = "Heal" },
 ["Meycat"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Heal" },
@@ -16,6 +15,7 @@ una_raids = {
 ["Lyrá"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
 ["Muushie"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Melee" },
+["Pettsin"] = { ["class"] = "Death Knight", ["realm"] = "Twisting Nether", ["role"] = "Melee" },
 }, ["ranged"] = {["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
@@ -27,6 +27,25 @@ una_raids = {
 ["Swoorlock"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Mitchdh"] = { ["class"] = "Demon Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 } } },
-["Midnight Falls"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } }}}
+["Midnight Falls"] = {["roster"] = {["tanks"] = {["Jawst"] = { ["class"] = "Death Knight", ["realm"] = "Al'Akir", ["role"] = "Tank" },
+}, ["healers"] = {["Emer"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Heal" },
+["Rossy"] = { ["class"] = "Evoker", ["realm"] = "Ravencrest", ["role"] = "Heal" },
+["Meycat"] = { ["class"] = "Druid", ["realm"] = "Magtheridon", ["role"] = "Heal" },
+["Mistme"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Heal" }}, ["melee"] = {["Ashie"] = { ["class"] = "Rogue", ["realm"] = "Magtheridon", ["role"] = "Melee" },
+["Lyrá"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Melee" },
+["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
+["Muushie"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Melee" },
+["Pettsin"] = { ["class"] = "Death Knight", ["realm"] = "Twisting Nether", ["role"] = "Melee" },
+}, ["ranged"] = {["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
+["Cabnh"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Streetspyro"] = { ["class"] = "Evoker", ["realm"] = "Ravencrest", ["role"] = "Ranged" },
+["Holynelly"] = { ["class"] = "Priest", ["realm"] = "Twisting Nether", ["role"] = "Ranged" },
+["Maxïm"] = { ["class"] = "Demon Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Veryberryy"] = { ["class"] = "Druid", ["realm"] = "Ravencrest", ["role"] = "Ranged" },
+["Swoorlock"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Mitchdh"] = { ["class"] = "Demon Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+} } }}}
 
 }
