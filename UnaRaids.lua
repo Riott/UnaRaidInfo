@@ -1,5 +1,5 @@
 una_raids = {
-    ["2668974"] = {["date"] = "2026-05-27", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2668974.png", ["bosses"] = {
+    ["2673209"] = {["date"] = "2026-06-02", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2673209.png", ["bosses"] = {
 ["Belo'ren, Child of Al'ar"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Midnight Falls"] = {["roster"] = {["tanks"] = {["Cubalibre"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Tank" },
 ["Jawst"] = { ["class"] = "Death Knight", ["realm"] = "Al'Akir", ["role"] = "Tank" },
