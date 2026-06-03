@@ -1,5 +1,5 @@
 una_raids = {
-    ["2680346"] = {["date"] = "2026-06-03", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2680346.png", ["bosses"] = {
+    ["2682382"] = {["date"] = "2026-06-08", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2682382.png", ["bosses"] = {
 ["Belo'ren, Child of Al'ar"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Midnight Falls"] = {["roster"] = {["tanks"] = {["Cubalibre"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Tank" },
 ["Jawst"] = { ["class"] = "Death Knight", ["realm"] = "Al'Akir", ["role"] = "Tank" },
@@ -12,8 +12,8 @@ una_raids = {
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
 ["Muushie"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Pettsin"] = { ["class"] = "Death Knight", ["realm"] = "Twisting Nether", ["role"] = "Melee" },
-}, ["ranged"] = {["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
+}, ["ranged"] = {["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Cabnh"] = { ["class"] = "Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Streetspyro"] = { ["class"] = "Evoker", ["realm"] = "Ravencrest", ["role"] = "Ranged" },
 ["Holynelly"] = { ["class"] = "Priest", ["realm"] = "Twisting Nether", ["role"] = "Ranged" },
