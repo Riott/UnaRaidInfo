@@ -1,5 +1,12 @@
 una_raids = {
-    ["2691239"] = {["date"] = "2026-06-15", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2691239.png", ["bosses"] = {
+    ["2696259"] = {["date"] = "2026-06-17", ["start"] = "19:45", ["end"] = "23:00", ["picture"] = "2696259.png", ["bosses"] = {
+["Imperator Averzian"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
+["Vorasius"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
+["Fallen-King Salhadaar"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
+["Vaelgor & Ezzorak"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
+["Lightblinded Vanguard"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
+["Crown of the Cosmos"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
+["Chimaerus"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Belo'ren, Child of Al'ar"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } },
 ["Midnight Falls"] = {["roster"] = {["tanks"] = {["Cubalibre"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Tank" },
 ["Jawst"] = { ["class"] = "Death Knight", ["realm"] = "Al'Akir", ["role"] = "Tank" },
@@ -19,7 +26,7 @@ una_raids = {
 ["Holynelly"] = { ["class"] = "Priest", ["realm"] = "Twisting Nether", ["role"] = "Ranged" },
 ["Veryberryy"] = { ["class"] = "Druid", ["realm"] = "Ravencrest", ["role"] = "Ranged" },
 ["Swoorlock"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Mitchdh"] = { ["class"] = "Demon Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" }} } }}}
+["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" }} } },
+["Rotmire"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } }}}
 
 }
