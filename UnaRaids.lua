@@ -26,6 +26,7 @@ una_raids = {
 ["Holynelly"] = { ["class"] = "Priest", ["realm"] = "Twisting Nether", ["role"] = "Ranged" },
 ["Veryberryy"] = { ["class"] = "Druid", ["realm"] = "Ravencrest", ["role"] = "Ranged" },
 ["Swoorlock"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Mitchdh"] = { ["class"] = "Demon Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" }} } },
 ["Rotmire"] = {["roster"] = {["tanks"] = {}, ["healers"] = {}, ["melee"] = {}, ["ranged"] = {} } }}}
 
