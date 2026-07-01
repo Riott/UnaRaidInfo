@@ -10,7 +10,7 @@ una_raids = {
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
 ["Muushie"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Jawst"] = { ["class"] = "Death Knight", ["realm"] = "Al'Akir", ["role"] = "Melee" },
-}, ["ranged"] = {["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Fatbobo"] = { ["class"] = "Death Knight", ["realm"] = "Ravencrest", ["role"] = "Melee" }}, ["ranged"] = {["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Garnetxx"] = { ["class"] = "Priest", ["realm"] = "Blade's Edge", ["role"] = "Ranged" },
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
@@ -19,7 +19,8 @@ una_raids = {
 ["Veryberryy"] = { ["class"] = "Druid", ["realm"] = "Ravencrest", ["role"] = "Ranged" },
 ["Swoorlock"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Mitchdh"] = { ["class"] = "Demon Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" }} } },
+["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+} } },
 ["Midnight Falls"] = {["roster"] = {["tanks"] = {["Cubalibre"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Tank" },
 }, ["healers"] = {["Emer"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Rossy"] = { ["class"] = "Evoker", ["realm"] = "Ravencrest", ["role"] = "Heal" },
@@ -30,7 +31,7 @@ una_raids = {
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
 ["Muushie"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Jawst"] = { ["class"] = "Death Knight", ["realm"] = "Al'Akir", ["role"] = "Melee" },
-}, ["ranged"] = {["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+["Fatbobo"] = { ["class"] = "Death Knight", ["realm"] = "Ravencrest", ["role"] = "Melee" }}, ["ranged"] = {["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Garnetxx"] = { ["class"] = "Priest", ["realm"] = "Blade's Edge", ["role"] = "Ranged" },
 ["Anorex"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Désh"] = { ["class"] = "Hunter", ["realm"] = "Silvermoon", ["role"] = "Ranged" },
@@ -39,6 +40,7 @@ una_raids = {
 ["Veryberryy"] = { ["class"] = "Druid", ["realm"] = "Ravencrest", ["role"] = "Ranged" },
 ["Swoorlock"] = { ["class"] = "Warlock", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Mitchdh"] = { ["class"] = "Demon Hunter", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
-["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" }} } }}}
+["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
+} } }}}
 
 }
