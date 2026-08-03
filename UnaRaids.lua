@@ -1,7 +1,6 @@
 una_raids = {
     ["2830107"] = {["date"] = "2026-08-05", ["start"] = "20:00", ["end"] = "23:00", ["picture"] = "2830107.png", ["bosses"] = {
 ["Belo'ren, Child of Al'ar"] = {["roster"] = {["tanks"] = {["Muushie"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Tank" },
-["Pettsin"] = { ["class"] = "Death Knight", ["realm"] = "Twisting Nether", ["role"] = "Tank" },
 ["Fatbobo"] = { ["class"] = "Death Knight", ["realm"] = "Ravencrest", ["role"] = "Tank" },
 }, ["healers"] = {["Emer"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Rossy"] = { ["class"] = "Evoker", ["realm"] = "Ravencrest", ["role"] = "Heal" },
@@ -10,6 +9,7 @@ una_raids = {
 }, ["melee"] = {["Ashie"] = { ["class"] = "Rogue", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Lyrá"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
+["Pettsin"] = { ["class"] = "Death Knight", ["realm"] = "Twisting Nether", ["role"] = "Melee" },
 ["Jawst"] = { ["class"] = "Death Knight", ["realm"] = "Al'Akir", ["role"] = "Melee" },
 ["Kungfury"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 }, ["ranged"] = {["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
@@ -22,7 +22,6 @@ una_raids = {
 ["Maxîm"] = { ["class"] = "Mage", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
 ["Lokkiletti"] = { ["class"] = "Warlock", ["realm"] = "Ravencrest", ["role"] = "Ranged" }} } },
 ["Midnight Falls"] = {["roster"] = {["tanks"] = {["Muushie"] = { ["class"] = "Death Knight", ["realm"] = "Magtheridon", ["role"] = "Tank" },
-["Pettsin"] = { ["class"] = "Death Knight", ["realm"] = "Twisting Nether", ["role"] = "Tank" },
 ["Fatbobo"] = { ["class"] = "Death Knight", ["realm"] = "Ravencrest", ["role"] = "Tank" },
 }, ["healers"] = {["Emer"] = { ["class"] = "Shaman", ["realm"] = "Magtheridon", ["role"] = "Heal" },
 ["Rossy"] = { ["class"] = "Evoker", ["realm"] = "Ravencrest", ["role"] = "Heal" },
@@ -31,6 +30,7 @@ una_raids = {
 }, ["melee"] = {["Ashie"] = { ["class"] = "Rogue", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Lyrá"] = { ["class"] = "Paladin", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 ["Odenssnus"] = { ["class"] = "Warrior", ["realm"] = "Antonidas", ["role"] = "Melee" },
+["Pettsin"] = { ["class"] = "Death Knight", ["realm"] = "Twisting Nether", ["role"] = "Melee" },
 ["Jawst"] = { ["class"] = "Death Knight", ["realm"] = "Al'Akir", ["role"] = "Melee" },
 ["Kungfury"] = { ["class"] = "Monk", ["realm"] = "Magtheridon", ["role"] = "Melee" },
 }, ["ranged"] = {["Dragongerbs"] = { ["class"] = "Evoker", ["realm"] = "Magtheridon", ["role"] = "Ranged" },
